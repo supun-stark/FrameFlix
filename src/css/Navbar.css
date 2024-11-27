@@ -10,9 +10,8 @@
 .navbar-brand {
   font-size: 1.8rem;
   font-weight: bold;
-  /* font-family: 'Poppins', Courier, monospace; */
   font-family: 'Poppins', Courier, monospace;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 
 .navbar-links {
